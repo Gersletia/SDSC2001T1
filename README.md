@@ -1,8 +1,10 @@
-# SDSC3002 Assignment 1 Q4(3)
+# SDSC3002 Assignment 2 
 ## How to run the code?
 
+Prepare the DBLP.txt file in the folder
 Click 'Restart & Run All'
 - Excluding the cell : 'pip install ...'
-- 1st cell : Q4(1)
-- 2nd cell : Q4(2)
-- Markdown cell : Q4(2)
+- 1st cell : Q2
+- 2nd cell : Q3
+- 3rd cell : Q4(1)
+- 4th cell : Q4(2)  
