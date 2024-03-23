@@ -2,7 +2,7 @@
 ## How to run the code?
 
 Prepare the DBLP.txt file in the folder
-Click 'Restart & Run All'
+and Click 'Restart & Run All'
 - Excluding the cell : 'pip install ...'
 - 1st cell : Q2
 - 2nd cell : Q3
